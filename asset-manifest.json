@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f50fda6.css",
+    "main.js": "/static/js/main.e21e1adf.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/banner.webp": "/static/media/banner.bcc1fa3dce915154b351.webp",
+    "static/media/rocket.svg": "/static/media/rocket.10125416122e549354beab6eebcb5a8c.svg",
+    "static/media/cardDream.webp": "/static/media/cardDream.c9659c59139c254dc400.webp",
+    "static/media/cardFantastic.webp": "/static/media/cardFantastic.3362c1d5a4118e4c9154.webp",
+    "static/media/cardMove.webp": "/static/media/cardMove.2a0ec71dc9155aada425.webp",
+    "static/media/cardSpace.webp": "/static/media/cardSpace.5126a1bafa41049208bc.webp",
+    "static/media/earth.webp": "/static/media/earth.6c834475ec0fc6da58fd.webp",
+    "static/media/logo.svg": "/static/media/logo.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/cartHovered.svg": "/static/media/cartHovered.b6bd9f60a6d5534fbcde.svg",
+    "static/media/cart.svg": "/static/media/cart.67fca105a774d353f1b9.svg",
+    "index.html": "/index.html",
+    "main.5f50fda6.css.map": "/static/css/main.5f50fda6.css.map",
+    "main.e21e1adf.js.map": "/static/js/main.e21e1adf.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f50fda6.css",
+    "static/js/main.e21e1adf.js"
+  ]
+}
